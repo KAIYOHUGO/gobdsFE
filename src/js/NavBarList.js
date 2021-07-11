@@ -1,5 +1,5 @@
 export default [
-    { label: 'Terminal', router: 'terminal' },
-    { label: 'Player List', router: 'playerlist' },
-    { label: 'Addon', router: 'addon' }
+    { label: "Terminal", icon: "el-icon-s-platform", router: "terminal" },
+    { label: "Player List", icon: "el-icon-user", router: "playerlist" },
+    { label: "Addon", icon: "el-icon-circle-plus-outline", router: "addon" }
 ]
